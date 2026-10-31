@@ -1,5 +1,7 @@
 # Kendi Ritmin - Altı Haftalık Bir Başlangıç
 
+[Français](README.md) | [Türkçe](README_TR.md)
+
 ## 1. Présentation et fonctionnalités
 
 **Kendi Ritmin** est une fiction interactive en turc consacrée à six semaines d’entraînement, d’alimentation et de récupération. Le jeu a été réalisé avec Twine et le format Harlowe.
@@ -18,6 +20,10 @@ Les valeurs sont des indicateurs fictionnels propres au jeu : elles ne prédisen
 ![Écran de choix de l’objectif dans Kendi Ritmin](apercu-jeu.png)
 
 ## 3. Installation et lancement
+
+### Jouer en ligne
+
+[Ouvrir le jeu dans le navigateur](https://alicanylmzr.github.io/kendi-ritmin/)
 
 ### Jouer sur son ordinateur
 
